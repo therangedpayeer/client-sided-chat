@@ -7,9 +7,9 @@ local chatService = game:GetService("Chat")
 local message = [[
 Welcome to Sigma Yuri
 Current Version 3.5
-Free/Paid
-
-FREE version
+   Free/Paid
+press f9 or type console to see updates 
+  FREE version
 
 only you can see this!
 ]]
