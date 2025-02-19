@@ -8,7 +8,7 @@ local message = [[
 Welcome to Sigma Yuri
 Current Version 3.5
    Free/Paid
-press f9 or type console to see updates 
+press f9 or type /console to see updates 
   FREE version
 
 only you can see this!
@@ -16,7 +16,7 @@ only you can see this!
 
 -- Function to display the message in chat
 local function displayMessage()
-    chatService:Chat(player.Character.Head, message, Enum.ChatColor.Green)
+    chatService:Chat(player.Character.Head, message, Enum.ChatColor.Red)
 end
 
 -- Send the message when the game starts
